@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/DataScience.iml" filepath="$PROJECT_DIR$/.idea/DataScience.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSB.iml" filepath="$PROJECT_DIR$/.idea/DSB.iml" />
+>>>>>>> 14dbf3e (2022-03-22)
     </modules>
   </component>
 </project>
